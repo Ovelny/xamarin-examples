@@ -1,0 +1,15 @@
+C:\Users\thiba\Documents\code\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll
+C:\Users\thiba\Documents\code\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\thiba\Documents\code\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\thiba\Documents\code\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\thiba\Documents\code\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\thiba\Documents\code\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\thiba\Documents\code\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\thiba\Documents\code\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\thiba\Documents\code\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\thiba\Documents\code\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\thiba\Documents\code\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\thiba\Documents\code\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.MainPage.xaml.g.cs
+C:\Users\thiba\Documents\code\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.App.xaml.g.cs
+C:\Users\thiba\Documents\code\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Users\thiba\Documents\code\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

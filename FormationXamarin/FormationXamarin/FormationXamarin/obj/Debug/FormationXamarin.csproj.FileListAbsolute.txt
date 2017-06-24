@@ -1,0 +1,15 @@
+C:\Users\thiba\Documents\code\FormationXamarin\FormationXamarin\FormationXamarin\bin\Debug\FormationXamarin.dll
+C:\Users\thiba\Documents\code\FormationXamarin\FormationXamarin\FormationXamarin\bin\Debug\FormationXamarin.pdb
+C:\Users\thiba\Documents\code\FormationXamarin\FormationXamarin\FormationXamarin\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\thiba\Documents\code\FormationXamarin\FormationXamarin\FormationXamarin\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\thiba\Documents\code\FormationXamarin\FormationXamarin\FormationXamarin\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\thiba\Documents\code\FormationXamarin\FormationXamarin\FormationXamarin\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\thiba\Documents\code\FormationXamarin\FormationXamarin\FormationXamarin\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\thiba\Documents\code\FormationXamarin\FormationXamarin\FormationXamarin\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\thiba\Documents\code\FormationXamarin\FormationXamarin\FormationXamarin\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\thiba\Documents\code\FormationXamarin\FormationXamarin\FormationXamarin\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\thiba\Documents\code\FormationXamarin\FormationXamarin\FormationXamarin\obj\Debug\FormationXamarin.MainPage.xaml.g.cs
+C:\Users\thiba\Documents\code\FormationXamarin\FormationXamarin\FormationXamarin\obj\Debug\FormationXamarin.App.xaml.g.cs
+C:\Users\thiba\Documents\code\FormationXamarin\FormationXamarin\FormationXamarin\obj\Debug\FormationXamarin.dll
+C:\Users\thiba\Documents\code\FormationXamarin\FormationXamarin\FormationXamarin\obj\Debug\FormationXamarin.pdb
+C:\Users\thiba\Documents\code\FormationXamarin\FormationXamarin\FormationXamarin\obj\Debug\FormationXamarin.csprojResolveAssemblyReference.cache

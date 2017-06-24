@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:FormationXamarin"
+             x:Class="FormationXamarin.MainPage">
+    <!--<ContentPage.Padding>
+        <Thickness>0,20,0,0</Thickness>
+    </ContentPage.Padding>-->
+    
+    <!--<ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+            <On Platform="iOS" Value="0,20,0,0"></On>
+        </OnPlatform>
+    </ContentPage.Padding>-->
+
+
+	<!--<Label Text="Welcome to Xamarin Forms!"
+           HorizontalOptions="Fill"
+           VerticalOptions="Center"
+           FontSize="20"
+           TextColor="Red"
+           BackgroundColor="Black"/>-->
+    
+    <!--<StackLayout>
+        <Label Text="salutmichel" BackgroundColor="Yellow"></Label>
+        <Label Text="salutgerard" BackgroundColor = "Red"></Label>
+    </StackLayout>-->
+
+    <!--<StackLayout>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Fill">
+        <Label Text="Login" VerticalOptions="End"></Label>
+            <Entry HorizontalOptions="FillAndExpand"></Entry>
+            </StackLayout>
+
+        <StackLayout Orientation="Horizontal" >
+            <Label Text="Mot de passe" VerticalOptions="End"></Label>
+            <Entry HorizontalOptions="FillAndExpand" IsPassword="true"></Entry>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal" VerticalOptions="FillAndExpand">
+            <Label Text="Commentaire" VerticalOptions="End"></Label>
+            <Editor HorizontalOptions="FillAndExpand" HeightRequest="100"></Editor>
+        </StackLayout>
+        
+        <StackLayout Orientation="Horizontal" HorizontalOptions="End">
+            <Button Text="Cancel"></Button>
+            <Button Text="OK"></Button>
+        </StackLayout>
+    </StackLayout>-->
+    
+    <!--<Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="1"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="1"></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        <Label Grid.Column="0" Grid.Row="0">
+            <Label.Text>Login</Label.Text>
+        </Label>
+        
+        <StackLayout Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2"></StackLayout>
+    </Grid>-->
+    
+    <!--<Grid>
+        <Grid.GestureRecognizers>
+            <TapGestureRecognizer Tapped="TapGestureRecognizer_OnTapped"></TapGestureRecognizer>
+        </Grid.GestureRecognizers>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        <BoxView x:Name="freeBox" Grid.Column="1" Color="Yellow"></BoxView>
+    </Grid>-->
+    
+    <StackLayout>
+        <!--<Entry BackgroundColor="White"
+               BindingContext="{x:Reference Name=input}" Text="{Binding Path=Text}"></Entry>
+        <Entry BackgroundColor="Yellow" x:Name="input">Yellow</Entry>-->
+        <!--<Label Text="hfuzdhf:kzhfe"></Label>
+        <Slider Maximum="50" Minimum="10" Value="25"></Slider>-->
+        <!--<Button Clicked="Button_Clicked">Go</Button>
+        <Label Text="{Binding Path=DateCourante}"></Label>-->
+        
+        <StackLayout Orientation="Horizontal">
+            <Entry x:Name="input"></Entry>
+            <Button Clicked="Button_Clicked">ADD</Button>
+        </StackLayout>
+        <ListView ItemsSource="{Binding Path=Phones}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="Téléphone :"></Label>
+                            <Label Text="{Binding Path=Value}" BackgroundColor="Red"></Label>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>
